@@ -1,19 +1,99 @@
-# Hi, I'm Usman Bukhari
+<div align="center">
 
-## Senior AI Engineer | RAG Systems & Healthcare AI
+# Usman Bukhari
 
-Building production AI systems that serve real users. Currently at NHS South Yorkshire ICB, where I've built RAG infrastructure serving 1.4M residents.
+**Senior AI Engineer** · RAG Systems · Healthcare AI
 
-### What I Build
-- 🏥 **Healthcare AI** — Document intelligence, clinical data pipelines, compliance-ready systems
-- 🔍 **RAG Architectures** — Azure AI Search, LangChain, vector embeddings at scale
-- ⚡ **Production ML** — From prototype to deployment with monitoring and cost optimization
+[![Website](https://img.shields.io/badge/Website-usmanbukhari.co.uk-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://usmanbukhari.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usmanbukhari)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanbukhari541@gmail.com)
 
-### Featured Work
-- **NHS Health Services Finder** — RAG chatbot serving 1.4M residents across South Yorkshire
-- **Enterprise Data Pipelines** — Crawl4AI + Azure Functions processing 30+ regional data sources
+</div>
 
-### Tech Stack
-`Python` `Azure AI` `LangChain` `FastAPI` `React` `PostgreSQL` `Docker`
+---
 
-📍 UK-based | Available for contracts | [usmanbukhari.co.uk](https://usmanbukhari.co.uk)
+Building production AI systems that serve real users. Currently at **NHS South Yorkshire ICB**, where I architect RAG infrastructure serving **1.4M residents**.
+
+I focus on the hard parts: making AI reliable in healthcare, handling compliance, and building systems that work at scale without breaking the budget.
+
+---
+
+## 🏗️ What I Build
+
+| Domain | Focus |
+|--------|-------|
+| **Healthcare AI** | Document intelligence, clinical data pipelines, IG-compliant systems |
+| **RAG at Scale** | Azure AI Search, vector embeddings, hybrid retrieval strategies |
+| **Production ML** | End-to-end pipelines with monitoring, evaluation, and cost optimization |
+
+---
+
+## 🚀 Featured Projects
+
+### NHS Health Services Finder
+> RAG-powered chatbot helping 1.4M South Yorkshire residents find health services
+
+`Azure AI Search` `LangChain` `FastAPI` `React`
+
+- Hybrid retrieval combining semantic search with keyword matching
+- Real-time data sync from 30+ regional health service sources
+- Built for NHS compliance and accessibility standards
+
+### Enterprise Data Pipeline
+> Automated ingestion system for regional healthcare data
+
+`Crawl4AI` `Azure Functions` `PostgreSQL`
+
+- Processes 30+ data sources on automated schedules
+- Intelligent content extraction with LLM-assisted parsing
+- Feeds multiple downstream AI applications
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI/ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UsmanBuk&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanBuk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+📍 **UK-based** · Open to contracts & consulting
+
+*Specializing in RAG systems, healthcare AI, and production ML infrastructure*
+
+</div>
