@@ -1,24 +1,19 @@
-# Hi there, I'm Usman Bukhari 👋
+# Hi, I'm Usman Bukhari
 
-## About Me
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: usmanbukhari541@gmail.com
+## Senior AI Engineer | RAG Systems & Healthcare AI
 
-## Tech Stack
-<!-- Add your technologies here -->
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+Building production AI systems that serve real users. Currently at NHS South Yorkshire ICB, where I've built RAG infrastructure serving 1.4M residents.
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanBuk&show_icons=true&theme=radical)
+### What I Build
+- 🏥 **Healthcare AI** — Document intelligence, clinical data pipelines, compliance-ready systems
+- 🔍 **RAG Architectures** — Azure AI Search, LangChain, vector embeddings at scale
+- ⚡ **Production ML** — From prototype to deployment with monitoring and cost optimization
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UsmanBuk)
+### Featured Work
+- **NHS Health Services Finder** — RAG chatbot serving 1.4M residents across South Yorkshire
+- **Enterprise Data Pipelines** — Crawl4AI + Azure Functions processing 30+ regional data sources
 
----
-⭐️ From [UsmanBuk](https://github.com/UsmanBuk)
+### Tech Stack
+`Python` `Azure AI` `LangChain` `FastAPI` `React` `PostgreSQL` `Docker`
+
+📍 UK-based | Available for contracts | [usmanbukhari.co.uk](https://usmanbukhari.co.uk)
