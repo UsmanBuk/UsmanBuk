@@ -83,8 +83,8 @@ I focus on the hard parts: making AI reliable in healthcare, handling compliance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UsmanBuk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=UsmanBuk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UsmanBuk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanBuk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
 
