@@ -40,37 +40,38 @@ I focus on the hard parts: making AI reliable in healthcare, handling compliance
 - Built for NHS compliance and accessibility standards
 
 ```mermaid
-flowchart LR
-    subgraph sources [Data Sources]
-        S1[NHS APIs]
-        S2[Regional Health Sites]
-        S3[Service Directories]
+flowchart TB
+    subgraph Input [30+ Data Sources]
+        A[NHS APIs] 
+        B[Health Sites]
+        C[Service Directories]
     end
-    
-    subgraph ingestion [Ingestion Pipeline]
-        C[Crawl4AI]
-        P[LLM Parser]
+
+    subgraph Processing [Ingestion Layer]
+        D[Crawl4AI Scraper]
+        E[LLM Content Parser]
     end
-    
-    subgraph storage [Storage and Index]
-        PG[(PostgreSQL)]
-        AZ[Azure AI Search]
+
+    subgraph Storage [Storage Layer]
+        F[(PostgreSQL)]
+        G[Azure AI Search Index]
     end
-    
-    subgraph retrieval [RAG Engine]
-        E[Embeddings]
-        H[Hybrid Search]
-        L[LangChain]
-        LLM[GPT-4]
+
+    subgraph RAG [RAG Pipeline]
+        H[Query Understanding]
+        I[Hybrid Retrieval]
+        J[GPT-4 Generation]
     end
-    
-    subgraph app [Application]
-        API[FastAPI]
-        UI[React Frontend]
+
+    subgraph Output [Application]
+        K[FastAPI Backend]
+        L[React Frontend]
     end
-    
-    sources --> ingestion --> storage
-    storage --> retrieval --> app
+
+    Input --> Processing
+    Processing --> Storage
+    Storage --> RAG
+    RAG --> Output
 ```
 
 ### Enterprise Data Pipeline
