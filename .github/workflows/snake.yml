@@ -1,4 +1,4 @@
-name: Generate Profile Assets
+name: Generate Snake
 
 on:
   schedule:
@@ -24,21 +24,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Generate GitHub Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: UsmanBuk
-          template: classic
-          base: header, repositories
-          base_indepth: false
-          repositories_forks: false
-          config_timezone: Europe/London
-          filename: dist/github-stats.svg
-          config_output: svg
-          retries: 3
-          retries_delay: 300
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

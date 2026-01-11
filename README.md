@@ -83,10 +83,8 @@ I focus on the hard parts: making AI reliable in healthcare, handling compliance
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/UsmanBuk/UsmanBuk/output/github-stats.svg" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=UsmanBuk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=UsmanBuk&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=UsmanBuk&theme=dark&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsmanBuk/UsmanBuk/output/github-contribution-grid-snake-dark.svg" />
