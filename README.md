@@ -39,41 +39,6 @@ I focus on the hard parts: making AI reliable in healthcare, handling compliance
 - Real-time data sync from 30+ regional health service sources
 - Built for NHS compliance and accessibility standards
 
-```mermaid
-flowchart TB
-    subgraph Input [30+ Data Sources]
-        A[NHS APIs] 
-        B[Health Sites]
-        C[Service Directories]
-    end
-
-    subgraph Processing [Ingestion Layer]
-        D[Crawl4AI Scraper]
-        E[LLM Content Parser]
-    end
-
-    subgraph Storage [Storage Layer]
-        F[(PostgreSQL)]
-        G[Azure AI Search Index]
-    end
-
-    subgraph RAG [RAG Pipeline]
-        H[Query Understanding]
-        I[Hybrid Retrieval]
-        J[GPT-4 Generation]
-    end
-
-    subgraph Output [Application]
-        K[FastAPI Backend]
-        L[React Frontend]
-    end
-
-    Input --> Processing
-    Processing --> Storage
-    Storage --> RAG
-    RAG --> Output
-```
-
 ### Enterprise Data Pipeline
 > Automated ingestion system for regional healthcare data
 
