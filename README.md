@@ -76,10 +76,3 @@ Agent skills for Claude Code and Codex CLI: gauntlet, which checks work with evi
 
 I architected RAG infrastructure at **NHS South Yorkshire ICB**, powering a health services finder for 1.4M residents.
 
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanBuk&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-</div>
