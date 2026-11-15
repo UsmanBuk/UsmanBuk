@@ -1,110 +1,85 @@
 <div align="center">
 
-# Usman Bukhari
+# Hi, I'm Usman 👋
 
-**Senior AI Engineer** · RAG Systems · Healthcare AI
+### Founder / AI Engineer · building [VacancyBot](https://vacancybot.co.uk)
 
+I build AI products and ship them. I also run **Bukhari Consulting**, training teams to use AI properly.
+
+[![VacancyBot](https://img.shields.io/badge/VacancyBot-vacancybot.co.uk-111827?style=for-the-badge&logo=rocket&logoColor=white)](https://vacancybot.co.uk)
 [![Website](https://img.shields.io/badge/Website-usmanbukhari.co.uk-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://usmanbukhari.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usmanbukhari)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanbukhari541@gmail.com)
 
-</div>
-
----
-
-Building production AI systems that serve real users. Currently at **NHS South Yorkshire ICB**, where I architect RAG infrastructure serving **1.4M residents**.
-
-I focus on the hard parts: making AI reliable in healthcare, handling compliance, and building systems that work at scale without breaking the budget.
-
----
-
-## 🏗️ What I Build
-
-| Domain | Focus |
-|--------|-------|
-| **Healthcare AI** | Document intelligence, clinical data pipelines, IG-compliant systems |
-| **RAG at Scale** | Azure AI Search, vector embeddings, hybrid retrieval strategies |
-| **Production ML** | End-to-end pipelines with monitoring, evaluation, and cost optimization |
-
----
-
-## 🚀 Featured Projects
-
-### NHS Health Services Finder
-> RAG-powered chatbot helping 1.4M South Yorkshire residents find health services
-
-`Azure AI Search` `LangChain` `FastAPI` `React`
-
-- Hybrid retrieval combining semantic search with keyword matching
-- Real-time data sync from 30+ regional health service sources
-- Built for NHS compliance and accessibility standards
-
-### Enterprise Data Pipeline
-> Automated ingestion system for regional healthcare data
-
-`Crawl4AI` `Azure Functions` `PostgreSQL`
-
-- Processes 30+ data sources on automated schedules
-- Intelligent content extraction with LLM-assisted parsing
-- Feeds multiple downstream AI applications
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,react,fastapi,nodejs,postgres,redis,docker,azure,git,github,githubactions,linux,vscode&theme=dark&perline=7)](https://skillicons.dev)
-
-**AI/ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Backend & Data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`now` shipping VacancyBot · open to AI engineering contracts and team training · Coventry, UK
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Building now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [VacancyBot](https://vacancybot.co.uk)
+My main product: an AI assistant that prepares and submits your job applications, starting with Reed. You review every application before it goes.
+
+![status](https://img.shields.io/badge/status-in_development-F59E0B?style=flat-square) ![code](https://img.shields.io/badge/code-private-6B7280?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [Headroom](https://github.com/UsmanBuk/Headroom)
+A usage-limits dashboard for Claude Code and Codex. When one account runs out, it moves your chat to the next and carries on.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Hindsight](https://github.com/UsmanBuk/Hindsight)
+An offline meeting recorder for Linux. It transcribes locally with Parakeet and writes notes with a local LLM through Ollama.
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [skills](https://github.com/UsmanBuk/skills)
+Agent skills for Claude Code and Codex CLI: gauntlet, which checks work with evidence, and bugfix, which takes a ticket to a verified fix.
+
+![Agents](https://img.shields.io/badge/AI_agents-7C3AED?style=flat-square&logo=openai&logoColor=white) ![Markdown](https://img.shields.io/badge/Skills-000000?style=flat-square&logo=markdown&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=UsmanBuk&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UsmanBuk&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanBuk&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Stack](https://skillicons.dev/icons?i=python,typescript,react,fastapi,nodejs,postgres,redis,docker,azure,linux,githubactions&theme=dark&perline=11)](https://skillicons.dev)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsmanBuk/UsmanBuk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsmanBuk/UsmanBuk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/UsmanBuk/UsmanBuk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-[![](https://visitcount.itsvg.in/api?id=UsmanBuk&icon=0&color=0)](https://visitcount.itsvg.in)
+**AI:** Azure AI Search · Azure AI Foundry · OpenAI · Claude & Codex agents · RAG · local LLMs
 
 </div>
 
 ---
 
+## 📍 Before
+
+I architected RAG infrastructure at **NHS South Yorkshire ICB**, powering a health services finder for 1.4M residents.
+
+---
+
 <div align="center">
 
-📍 **UK-based** · Open to contracts & consulting
-
-*Specializing in RAG systems, healthcare AI, and production ML infrastructure*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanBuk&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 </div>
