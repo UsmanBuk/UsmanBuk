@@ -49,7 +49,7 @@ An offline meeting recorder for Linux. It transcribes locally with Parakeet and 
 </td>
 <td width="50%" valign="top">
 
-### [skills](https://github.com/UsmanBuk/skills)
+### [Skills](https://github.com/UsmanBuk/Skills)
 Agent skills for Claude Code and Codex CLI: gauntlet, which checks work with evidence, and bugfix, which takes a ticket to a verified fix.
 
 ![Agents](https://img.shields.io/badge/AI_agents-7C3AED?style=flat-square&logo=openai&logoColor=white) ![Markdown](https://img.shields.io/badge/Skills-000000?style=flat-square&logo=markdown&logoColor=white)
