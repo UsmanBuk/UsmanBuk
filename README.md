@@ -43,14 +43,6 @@ A usage-limits dashboard for Claude Code and Codex. When one account runs out, i
 <tr>
 <td width="50%" valign="top">
 
-### [Hindsight](https://github.com/UsmanBuk/Hindsight)
-An offline meeting recorder for Linux. It transcribes locally with Parakeet and writes notes with a local LLM through Ollama.
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
 ### [Skills](https://github.com/UsmanBuk/Skills)
 Agent skills for Claude Code and Codex CLI: gauntlet, which checks work with evidence, and bugfix, which takes a ticket to a verified fix.
 
